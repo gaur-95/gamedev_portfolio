@@ -58,6 +58,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>gaur_portfolio</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
